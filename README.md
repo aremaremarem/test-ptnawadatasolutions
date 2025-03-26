@@ -1,7 +1,7 @@
-### Test PT Nawadata Solution
+# Test PT Nawadata Solution
 
-# Short Caracter
+### Short Caracter
 - Buat memisahkan karakter vokal dan konsonan
 
-# PSBB ( Pembatasan Sosial Berskala Besar )
+### PSBB ( Pembatasan Sosial Berskala Besar )
 - Berfungsi untuk menghitung jumlah bus yang akan dipakai
